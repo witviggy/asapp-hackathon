@@ -33,7 +33,6 @@ https://huggingface.co/spaces/srini047/asapp-hackathon
 
 **Profanity Detection**: 
 - You'll need a profanity detection mechanism to identify and flag profane words or phrases in the sentences. You can use a pre-trained model, a list of profane words, or a combination of techniques to detect profanity.
-- 
 
 **Saliency Checking Sentence-wise:**
 
